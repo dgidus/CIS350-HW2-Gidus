@@ -1,15 +1,21 @@
-## Welcome to Thomas' Personal Repo Site
+## About Thomas Gidus
 
-You can use the [editor on GitHub](https://github.com/dgidus/CIS350-HW2-Gidus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Personal Interests
+* Studying, learning about, and practicing mathematics
+* Playing video games like CS:GO and Terraria
+* Studying music theory and learning to play the piano
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Technical Background
+Two previous computer science classes, one in Ruby and the other in Java. Light experience in GUI applications. Have studied statistics, number theory, calculus, and the applications of quaternions in computer programs. 
 
-### Bla Bla Bla
+### Favorite Meme
+[MegaChoc](https://i.imgur.com/2zkPVpS.jpg)
 
 
-```
 
 
-### Have a great day
+
+
+
 
 
