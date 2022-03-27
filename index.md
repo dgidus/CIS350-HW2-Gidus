@@ -12,6 +12,10 @@ Two previous computer science classes, one in Ruby and the other in Java. Light 
 [MegaChoc](https://i.imgur.com/2zkPVpS.jpg)
 
 
+### 2D Raycasting Project
+[2D raycasting](../JavaScript_Projects/2D_raycasting.js)
+
+
 
 
 
